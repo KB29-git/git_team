@@ -1,5 +1,5 @@
 ---
-name: '이슈 템플릿 -> 복사해주세요(제목) :memo: docs : [#이슈번호] 작업설명'
+name: '이슈 템플릿 복사해주세요(제목) -> :memo: docs : [#이슈번호] 작업설명'
 about: git prac
 title: ''
 labels: ''
