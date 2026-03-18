@@ -9,3 +9,4 @@
 - push 전에 꼭 pull 받아서 작업하기
 =======
 >>>>>>> Stashed changes
+- 모든 PR은 리뷰 승인 후 merge한다.
