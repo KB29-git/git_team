@@ -1,1 +1,1 @@
-# git_team
+- [이아현](docs/members/ahyeon.md)
